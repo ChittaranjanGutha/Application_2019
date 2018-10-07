@@ -9,8 +9,8 @@
 | [SnowFlake](https://jobs.lever.co/snowflake/25eee637-ff4f-4acb-93d2-45fc11584361?lever-source=LinkedInJobs) | FullTIme |
 | [Rubicon Project](http://rubiconproject.com/careers/job/1278663?gh_jid=1278663) | Fulltime |
 | [Workiva ](http://jobs.jobvite.com/workiva/job/oXN77fwI?__jvst=Job+Board&__jvsd=LinkedIn) | Fulltime |
-| []() | Fulltime |
-| []() | Fulltime |
+| [IQVIA](https://iqvia.wd1.myworkdayjobs.com/IQVIA/login?redirect=%2FIQVIA%2Fjob%2FSeattle-WA%2FSoftware-Engineer_R1008015%2Fapply%3Fsource%3DLinkedin) | Fulltime |
+| [OATH](https://oath.wd5.myworkdayjobs.com/en-US/careers/job/US---Los-Angeles-W-Jefferson-Blvd/Software-Engineer-I_JR0006380?source=Linkedin) | Fulltime |
 | []() | Fulltime |
 | []() | Fulltime |
 
